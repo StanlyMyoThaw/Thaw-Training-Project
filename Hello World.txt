@@ -1,0 +1,25 @@
+Hello World + Argument 
+A. First Sequence     name      Main.xaml ,In Sequence - Assign - In Assign put variable (InPutValue) and right box ("example of using an argument")
+B. Second Sequence  name      OutPutArgument - Drag Invoke Workflow - retrieve (Main.xaml) from UIPath and argument variable create
+(received Value) , dir (Out), (String)
+message box  put (receivedValue + "")
+
+
+Add,Sub and Mul Argument
+A. First Sequence  name add,   Create Argument variables, (inNum1)             -        dir (in)    -  (Int32)  - (Blank space)
+                                                                                                     (inNum2)             -        dir (in)    -  (Int32)  - (Blank space)
+                                                                                                     (OutAddResult)  -        dir(Out)  - (Int32)  - (Blank space)
+                                                    Assign drag   put (OutAddResult), and (inNum1+inNum2) 
+B. Second Sequence name Multiply, Create Argument variables same as above except (OutmulResult)
+                                                    Assign drag   put (OutMulResult), and (inNum1*inNum2 
+C. Third Sequence  name GetResult
+     Invoke Workflow drag File name Add, retrieve (add.xaml), click import Arguments put (inNum1)  -     dir (in)  -   type(Int32)  - Value (any number 6) 
+                                                                                                                                                 (inNum2)  -     dir (in)  -   type(Int32)  - Value (any number 8) 
+                                                                                                                                                 (GetResult)  - dir (out)  -  type(Int32)  - Value (result) 
+                                                                                      message box  (result) 
+    Inside the third sequence , Invoke Workflow drag  File name Multiply, retrieve (multiply.xaml), click import Arguments put (inNum1)  -     dir (in)  -   type(Int32)  - Value (any number 8) 
+                                                                                                                                                 (inNum2)  -     dir (in)  -   type(Int32)  - Value (6) 
+                                                                                                                                                 (GetResult)  - dir (out)  -  type(Int32)  - Value (result) 
+                                                                                       message box  (result)                            
+                                                                                                                                                 
+

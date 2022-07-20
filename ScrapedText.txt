@@ -1,0 +1,14 @@
+﻿Blog Titles,URL
+U.S. State CIOs Pursuing Faster Digital Transformation,https://www.uipath.com/blog/industry-solutions/state-cios-pursuing-faster-digital-transformation-nascio-2022
+Better Nursing Employment Benefits Aren’t Enough to Create True Workforce Resilience,https://www.uipath.com/blog/industry-solutions/healthcare-automation-addressing-nursing-shortage
+How is UiPath Automating Cybersecurity Operations?,https://www.uipath.com/blog/automation/automating-cybersecurity-operations
+New Adobe Connectors Accelerate Document Processing Automation,https://www.uipath.com/blog/product-and-updates/adobe-connectors-document-processing-automation
+Experts Weigh in on Reimagining Healthcare in 2022 and Beyond,https://www.uipath.com/blog/industry-solutions/reimagining-healthcare
+Bringing AI and Robotic Process Automation to Manufacturing,https://www.uipath.com/blog/industry-solutions/manufacturing-rpa-and-artificial-intelligence
+Extending Automation Leadership with the Next-Gen UiPath Automation Cloud,https://www.uipath.com/blog/product-and-updates/extending-automation-leadership-with-uipath-automation-cloud-2022-4-release
+Frictionless Automation Development and Faster Time to Value With 2022.4 Release,https://www.uipath.com/blog/product-and-updates/frictionless-automation-development-2022-4-release
+2022.4 Release Brings Automation Access for All,https://www.uipath.com/blog/product-and-updates/automation-access-for-all-uipath-2022-4-release
+UiPath 2022.4 Release Raises the Bar on Security and Compliance,https://www.uipath.com/blog/product-and-updates/improved-automation-security-and-compliance-2022-4-release
+Introducing Automation Launchpad: Evangelizing Your CoE Now Has A Home Page,https://www.uipath.com/blog/product-and-updates/introducing-automation-launchpad
+Artificial Intelligence is Everywhere,https://www.uipath.com/blog/ai/artificial-intelligence-is-everywhere
+How to Amplify Optimization and Automation Benefits with Process Mining,https://www.uipath.com/blog/product-and-updates/process-mining-amplifies-optimization-and-automation-benefits
